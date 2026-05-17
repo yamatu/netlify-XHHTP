@@ -4,5 +4,5 @@
   edge_functions = "edge-functions"   
 
 [[edge_functions]]
-  path = "/*"
+  path = "/api/v3/resource"
   function = "proxy"
